@@ -18,6 +18,6 @@ void loop() {
     Serial.print("|");
     Serial.println(kelembapan);
   }
-  delay(2000);
+  delay(3000);
 }
 
